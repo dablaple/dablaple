@@ -1,4 +1,4 @@
-# Hello! Bonjour! Salem! Hola! Shalom! Привiт! Hallo! Salve! Привет! Hやあ!
+# Hello! Bonjour! Salem! Hola! Shalom! Привiт! Hallo! Salve! Привет! やあ!
 Cybersecurity specialist / software engeener / 
 
 ## Social media pages
