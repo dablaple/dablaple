@@ -1,5 +1,5 @@
 # Hello! Bonjour! Salem! Hola! Shalom! Привiт! Hallo! Salve! Привет! やあ!
-Cybersecurity specialist / Software engineer / Mobile deleloper / VK/Telegram/Discord Bot developer
+Cybersecurity specialist | Software engineer | Mobile deleloper | VK/Telegram/Discord Bot developer
 
 ## Social media pages / Meniń Áleýmettik jelilerim
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](example@gmail.com)
