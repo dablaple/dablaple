@@ -1,7 +1,8 @@
 # Hello! Bonjour! Salem! Hola! Shalom! Привiт! Hallo! Salve! Привет! やあ!
-Cybersecurity specialist / software engeener / 
+Cybersecurity specialist / Software engineer / Mobile deleloper / VK/Telegram/Discord Bot developer
 
 ## Social media pages
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](example@gmail.com)
 [![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/)
 [![INST](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.reddit.com/)
