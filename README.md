@@ -67,37 +67,46 @@ Cybersecurity specialist | Software engineer | Mobile deleloper | VK/Telegram/Di
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <details>
-    <summary>other stuff</summary>
-  
+    <summary>misc</summary>
+
+### Swfit libs and tools
+![Swift](https://img.shields.io/badge/swift%20UI-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 ### javascript libraries & tools
 
-[![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white)](https://babeljs.io/)
-[![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-UI&logoColor=white)](https://material-ui.com/)
-[![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
-[![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white)](https://www.npmjs.com/package/nodemon)
-[![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
-[![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### python libraries & tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Yandex](https://img.shields.io/badge/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%A1%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F-blueviolet?&style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMzcwcHgiIGhlaWdodD0iMzcwcHgiIHZpZXdCb3g9IjAgMCAzNzAgMzcwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA0Ni4yICg0NDQ5NikgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+CiAgICA8dGl0bGU+R3JvdXA8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgeDE9IjAlIiB5MT0iMTAwJSIgeDI9IjEwMCUiIHkyPSIwJSIgaWQ9ImxpbmVhckdyYWRpZW50LTEiPgogICAgICAgICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjQzkyNkZGIiBvZmZzZXQ9IjAlIi8+CiAgICAgICAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiM0QTI2RkYiIG9mZnNldD0iMTAwJSIvPgogICAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iR3JvdXAiPgogICAgICAgICAgICA8cmVjdCBpZD0iUmVjdGFuZ2xlIiBmaWxsPSIjRkZGRkZGIiB4PSI3NyIgeT0iNzIiIHdpZHRoPSIyMTUiIGhlaWdodD0iMTk5Ii8+CiAgICAgICAgICAgIDxnIGlkPSJhbGljZV9sb2dvIiBmaWxsLXJ1bGU9Im5vbnplcm8iIGZpbGw9InVybCgjbGluZWFyR3JhZGllbnQtMSkiPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTE4NSwzNzAgQzgyLjgyNzMyMDksMzcwIDAsMjg3LjE3MjY3OCAwLDE4NSBDMCw4Mi44MjczMjA5IDgyLjgyNzMyMDksMCAxODUsMCBDMjg3LjE3MjY3OCwwIDM3MCw4Mi44MjczMjA5IDM3MCwxODUgQzM3MCwyODcuMTcyNjc4IDI4Ny4xNzI2NzgsMzcwIDE4NSwzNzAgWiBNMTAwLjI4Nzk1MiwyNDQuNzA4MjQ0IEMxMTMuNTY4OTA4LDI1Ny45MjM4NzUgMTQ4Ljk0NTcxNiwyNjUuODU5NTc3IDE4NSwyNjUuOTk4Njc3IEMyMjEuMDUzMTgzLDI2NS44NTk1NzcgMjU2LjQzMTA5MiwyNTcuOTIzODc1IDI2OS43MTIwNDgsMjQ0LjcwODI0NCBDMzAyLjcwODYwOCwyMTEuODczOTg0IDIyMi41MDAwNDQsODYuMDgwMTUgMTg1LjA0MTI3Niw4NS44OTcyMzgzIEMxNDcuNDk5OTU2LDg2LjA4MDE1IDY3LjI5MTM5MTIsMjExLjg3Mzk4NCAxMDAuMjg3OTUyLDI0NC43MDgyNDQgWiIgaWQ9ImFsaXNhLXN5bWJvbCIvPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=)
+![VK API](https://img.shields.io/badge/VK%20API-blue?style=for-the-badge&logo=vk&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-[![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numPy&logoColor=white)](https://numpy.org/)
-[![PyPI](https://img.shields.io/badge/-PyPI-3775A9?style=flat-square&logo=pyPI&logoColor=white)](https://pypi.org/)
+### Progs, IDEs, Tools
 
-### main programs & tools
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminalt-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Win95](https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![WP](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Duo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
+https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white
 
-[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual%2Dstudio%2Dcode&logoColor=white)](https://code.visualstudio.com/)
-[![Google Chrome](https://img.shields.io/badge/-Google_Chrome-4285F4?style=flat-square&logo=google%2Dchrome&logoColor=white)](https://www.google.com/intl/en/chrome/)
-[![Firefox Browser](https://img.shields.io/badge/-Firefox_Browser-FF7139?style=flat-square&logo=firefox%2Dbrowser&logoColor=white)](https://www.mozilla.org/en/firefox/new/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)](https://prettier.io/)
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
-[![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org/)
-[![dwm](https://img.shields.io/badge/-dwm-1177AA?style=flat-square&logo=dwm&logoColor=white)](https://dwm.suckless.org/)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powerShell&logoColor=white)
-[![Sublime Text](https://img.shields.io/badge/-Sublime_Text-FF9800?style=flat-square&logo=sublime%2Dtext&logoColor=white)](https://www.sublimetext.com/)
-[![Neovim](https://img.shields.io/badge/-Neovim-116EAD?style=flat-square&logo=neovim&logoColor=5B973B)](https://neovim.io/)
-[![Vim](https://img.shields.io/badge/-Vim-007F00?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
-
-
+### Hardware
+![M1](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel%20-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
+![]()
+![]()
