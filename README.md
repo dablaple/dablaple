@@ -66,5 +66,38 @@ Cybersecurity specialist | Software engineer | Mobile deleloper | VK/Telegram/Di
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+<details>
+    <summary>other stuff</summary>
+  
+### javascript libraries & tools
+
+[![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white)](https://babeljs.io/)
+[![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-UI&logoColor=white)](https://material-ui.com/)
+[![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white)](https://www.npmjs.com/package/nodemon)
+[![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
+[![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+
+### python libraries & tools
+
+[![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numPy&logoColor=white)](https://numpy.org/)
+[![PyPI](https://img.shields.io/badge/-PyPI-3775A9?style=flat-square&logo=pyPI&logoColor=white)](https://pypi.org/)
+
+### main programs & tools
+
+[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual%2Dstudio%2Dcode&logoColor=white)](https://code.visualstudio.com/)
+[![Google Chrome](https://img.shields.io/badge/-Google_Chrome-4285F4?style=flat-square&logo=google%2Dchrome&logoColor=white)](https://www.google.com/intl/en/chrome/)
+[![Firefox Browser](https://img.shields.io/badge/-Firefox_Browser-FF7139?style=flat-square&logo=firefox%2Dbrowser&logoColor=white)](https://www.mozilla.org/en/firefox/new/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)](https://prettier.io/)
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
+[![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org/)
+[![dwm](https://img.shields.io/badge/-dwm-1177AA?style=flat-square&logo=dwm&logoColor=white)](https://dwm.suckless.org/)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powerShell&logoColor=white)
+[![Sublime Text](https://img.shields.io/badge/-Sublime_Text-FF9800?style=flat-square&logo=sublime%2Dtext&logoColor=white)](https://www.sublimetext.com/)
+[![Neovim](https://img.shields.io/badge/-Neovim-116EAD?style=flat-square&logo=neovim&logoColor=5B973B)](https://neovim.io/)
+[![Vim](https://img.shields.io/badge/-Vim-007F00?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
 
 
